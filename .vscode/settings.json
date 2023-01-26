@@ -1,0 +1,6 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm-buttons.showGitCheckout": true,
+    "scm-buttons.showGitCommitAll": true,
+    "scm-buttons.showGitCleanAll": true
+}
