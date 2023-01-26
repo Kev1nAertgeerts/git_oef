@@ -1,3 +1,3 @@
 print("eerste lijn")
-print("dsds")
+print("nintendo ds")
 print("Hello world")
